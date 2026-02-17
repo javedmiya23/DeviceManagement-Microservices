@@ -55,5 +55,10 @@ Client → Nginx → Microservice → Kafka → Background Processing → Databa
 
 ---
 
+## Architecture Diagram
+
+![Architecture](docs/architecture.png)
+
+
 ## Author
 Javed Miya

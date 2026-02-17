@@ -55,6 +55,17 @@ Client → Nginx → Microservice → Kafka → Background Processing → Databa
 
 ---
 
+## Infrastructure Setup
+
+See the infrastructure folder for:
+
+- Kafka setup
+- Redis setup
+- MongoDB setup
+- SQL Server setup
+- Nginx configuration
+
+
 ## Architecture Diagram
 
 ![Architecture](docs/architecture.png)
